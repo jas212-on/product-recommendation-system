@@ -231,7 +231,7 @@ export default function HomePage() {
       <Hero />
 
       {/* Main Content Area */}
-      <main className="flex-grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+      <main className="grow max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         {/* Category Header */}
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-12 border-b border-neutral-100 dark:border-neutral-800 pb-8">
           <div>
